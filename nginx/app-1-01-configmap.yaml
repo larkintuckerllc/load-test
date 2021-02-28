@@ -1,0 +1,114 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-1
+  labels:
+    app: app-1
+  namespace: default
+data:
+  index.html: |+
+    <html>
+    <body>
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    Hello World!
+    </body>
+    </html>
+
