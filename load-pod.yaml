@@ -11,7 +11,7 @@ spec:
     - -qps=6000
     - -t=5m
     - -H=X-Test:012345789012345789012345789012345789012345789012345789012345789012345789012345789012345789
-    - http://10.227.5.80/
+    - http://[IP_ADDRESS]/
     image: fortio/fortio
   nodeName: [NODE_NAME]
   restartPolicy: Never
